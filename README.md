@@ -1,4 +1,4 @@
-<h1 align="center"> Habis </h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
 NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -33,7 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Habits é um app para ajudar a rastrear os habitos.
+
+- [Visite o projeto online] (https://remarkable-florentine-b5fd08.netlify.app)
 
 ## 🔖 Layout
 
@@ -45,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave:
