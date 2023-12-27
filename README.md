@@ -12,7 +12,7 @@ NLw e um Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/maykbrito/nlw-setup/raw/main/.github/preview.jpg">
+  <img alt="License" src="./assets/capa.png">
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os habitos.
 
-- [Visite o projeto online] (https://remarkable-florentine-b5fd08.netlify.app)
+- [Visite o projeto online] (https://khnum782.github.io/Habits/)
 
 ## 🔖 Layout
 
